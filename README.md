@@ -1,1 +1,1 @@
-# nestjs-studies
+# nestjs
